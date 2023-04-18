@@ -3,11 +3,11 @@ title: MI HISTORIA
 feature_text: |
   ## Mi vida
   No cuentes los días, haz que los días cuenten - Muhammad Ali
-feature_image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOA-QvPcyJeZxjq_bwOH2-82eYLjfVgWiCJmQ86Kw&s"
+feature_image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNxo2DywFwrAFmAvEHSMBHAzlxFpsEDGtgMfe4j6n89cfbCefCZZ5Ac2u720VtESiKb4&usqp=CAU"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Mi nombre es Luis Miguel Tenezaca Guaman [Jekyll](https://jekyllrb.com/) nacie en Ecuador/Riobamba el 5 de octubre de 1999. A los 4 años entre al jardin cuyo nombre era "General Lavalle" luego ingrese a la escuela "Arnaldo Merino Muñoz 
+Mi nombre es Luis Miguel Tenezaca Guaman [Luis](https://www.facebook.com/luis.50te) nacie en Ecuador/Riobamba el 5 de octubre de 1999. A los 4 años entre al jardin cuyo nombre era "General Lavalle" luego ingrese a la escuela "Arnaldo Merino Muñoz". Luego continue con mis estudios en el Colegio "Carlos Cineros"
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
