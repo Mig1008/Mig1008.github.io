@@ -1,7 +1,7 @@
 ---
 title: About Alembic
 feature_text: |
-  ## Alembic
+  ## Mi vida
   No cuentes los días, haz que los días cuenten - Muhammad Ali
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
