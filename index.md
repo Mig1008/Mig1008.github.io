@@ -7,7 +7,8 @@ feature_image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNxo2DywF
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Mi nombre es Luis Miguel Tenezaca Guaman [Luis](https://www.facebook.com/luis.50te) nacie en Ecuador/Riobamba el 5 de octubre de 1999. A los 4 años entre al jardin cuyo nombre era "General Lavalle" luego ingrese a la escuela "Arnaldo Merino Muñoz". Luego continue con mis estudios en el Colegio "Carlos Cineros"
+Mi nombre es Luis Miguel Tenezaca Guaman [Luis](https://www.facebook.com/luis.50te) nací en Ecuador/Riobamba el 5 de octubre de 1999. A los 4 años entre al Jardín cuyo nombre era "General Lavalle" luego ingrese a la escuela "Arnaldo Merino Muñoz". Luego continue con mis estudios en el Colegio "Carlos Cisneros" en el cual me especialice como Electricista.
+Luego de concluir mis estudios en el colegio proseguí a entrar al servicio militar dejándome una gran experiencia en mi vida. Luego ingrese a el CCAP el cual estudie para auxiliar de enfermería y por ultimo ahora me encuentro en la Universidad Nacional de Chimborazo cursando el 7mo semestre de la carrera de Pedagogía de la informática.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
