@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Mi nombre es [Luis] Miguel Tenezaca Guaman (https://www.canva.com/design/DAFgyyeWpM4/DqAjWoSHoAzGaD54vQAArg/view), estudiante de la Universidad Nacional de Chimborazo. 
+Mi nombre es [Luis](https://www.canva.com/design/DAFgyyeWpM4/DqAjWoSHoAzGaD54vQAArg/view) Miguel Tenezaca Guaman, estudiante de la Universidad Nacional de Chimborazo. 
 
 Nací el 5 de octubre de 1999 en el hospital San Juan Riobamba/Ecuador, inicie mis estudios en el Jardín General Lavalle, en ese lugar aprendí valores que me ayudaron para la escuela. 
 
