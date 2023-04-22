@@ -246,7 +246,7 @@ Available options:
 
 Use the `email` option in the `/_config.yml` to change to the desired email.
 
-### `site-search.html`
+
 Adds a search form to the page.
 
 Example usage: `{% include site-search.html %}`
