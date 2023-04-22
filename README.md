@@ -249,7 +249,7 @@ Use the `email` option in the `/_config.yml` to change to the desired email.
 
 Adds a search form to the page.
 
-Example usage: `{% include site-search.html %}`
+
 
 This include has no options. This include will add a block of javascript to the page and javascript reference in order for the search field to work correctly.
 
@@ -262,8 +262,7 @@ Optional html includes for adding scripts, css, js or any embed code you wish to
 
 As well as `page`, `post`, `blog`, there are a few alternative layouts that can be used on pages:
 
-- `categories`: Shows all posts grouped by category, with an index of categories in a left hand sidebar
-- `search`: Adds a search field to the page as well as a simplified version of the sidebar to allow more focus on the search results
+
 
 ## Page and Post options
 
