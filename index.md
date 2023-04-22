@@ -2,7 +2,7 @@
 title: Mi Historia
 feature_text: |
   ## La educación es el arma más poderosa que puedes usar para cambiar el mundo
-  Nelson Mnadela
+  Nelson Mandela
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
@@ -22,7 +22,7 @@ Terminé el servicio militar y proseguí a obtener auxiliatoria en enfermería c
 Por último como ya lo supe manifestar estoy en la Universidad Nacional de Chimborazo y estoy cursando el séptimo semestre de la carrera de Pedagogía de las Ciencias Experimentales Informática.
 
 
-{% include button.html text="Facebook" icon="github" link="https://www.facebook.com/luis.50te" color="#0366d6" %} {% include button.html text="Instagram" link="https://www.instagram.com/miguel_10082022/?hl=es-la" color="#f68140" %} {% include button.html text="Tweet it" icon="Youtube" link="https://www.youtube.com/channel/UCabNVLFqENUmiDnxkL-y78w" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Facebook" link="https://www.facebook.com/luis.50te" color="#0366d6" %} {% include button.html text="Instagram" link="https://www.instagram.com/miguel_10082022/?hl=es-la" color="#pink" %} {% include button.html text="Youtube" icon="Youtube" link="https://www.youtube.com/channel/UCabNVLFqENUmiDnxkL-y78w" color="#red" %} 
 
 ## Features
 
