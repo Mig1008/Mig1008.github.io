@@ -22,7 +22,7 @@ Terminé el servicio militar y proseguí a obtener auxiliatoria en enfermería c
 Por último como ya lo supe manifestar estoy en la Universidad Nacional de Chimborazo y estoy cursando el séptimo semestre de la carrera de Pedagogía de las Ciencias Experimentales Informática.
 
 
-{% include button.html text="Facebook" link="https://www.facebook.com/luis.50te" color="#0366d6" %} {% include button.html text="Instagram" link="https://www.instagram.com/miguel_10082022/?hl=es-la" color="#pink" %} {% include button.html text="Youtube" icon="Youtube" link="https://www.youtube.com/channel/UCabNVLFqENUmiDnxkL-y78w" color="#red" %} 
+{% include button.html text="Facebook" link="https://www.facebook.com/luis.50te" color="#0366d6" %} {% include button.html text="Instagram" link="https://www.instagram.com/miguel_10082022/?hl=es-la" color="#de288c" %} {% include button.html text="Youtube" icon="Youtube" link="https://www.youtube.com/channel/UCabNVLFqENUmiDnxkL-y78w" color="#d60303" %} 
 
 ## Lo que me apasiona
 
